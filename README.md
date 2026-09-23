@@ -1,5 +1,4 @@
-
-#Netflix Content Analysis Dashboard
+Netflix Content Analysis Dashboard
 Project Overview
 
 Developed an interactive Power BI dashboard to analyze Netflix's global content library. The dashboard provides insights into content distribution, ratings, genres, release trends, and country-wise content production.
@@ -26,11 +25,7 @@ DAX
 Excel/CSV Dataset
 Dashboard Preview
 
-(Add this screenshot)
-
-What Recruiters Like Seeing
-
-Instead of only uploading the screenshot, also mention:
+Tasks Performed:
 
 Data Cleaning Performed
 DAX Measures Created
