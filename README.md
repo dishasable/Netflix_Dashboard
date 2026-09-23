@@ -48,3 +48,4 @@ CALCULATE(
 Built an interactive Power BI dashboard analyzing 8,799 Netflix titles across genres, ratings, release years, and countries.
 Developed KPIs, DAX measures, and visualizations to uncover content trends and geographic distribution.
 Improved data exploration through interactive filtering and drill-down capabilities.
+<img width="1360" height="748" alt="Screenshot 2026-09-23 114055" src="https://github.com/user-attachments/assets/458bc79c-ecc2-4b6f-860a-219e9743a644" />
